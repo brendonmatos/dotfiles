@@ -5,5 +5,7 @@ for file in $files; do
     cp ~/$file .
 done
 
+rm -rf Brewfile
 
+brew bundle dump
 
