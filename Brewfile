@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+brew "asdf"
+brew "btop"
+brew "fzf"
+brew "neovim"
+brew "thefuck"
+brew "zsh"
+brew "openssl"

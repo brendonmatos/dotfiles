@@ -1,0 +1,6 @@
+.fzf.bash
+.fzf.zsh
+.tool-versions
+.zshenv
+.zshrc
+.asdfrc
